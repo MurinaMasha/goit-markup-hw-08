@@ -11,7 +11,7 @@
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(../images/overlay/img_mob1x.jpg);
+    url(./images/overlay/img_mob1x.jpg);
     @media (min-device-pixel-ratio: 2),
   (min-resolution: 192dpi),
   (min-resolution: 2dppx) {
@@ -20,7 +20,7 @@
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(../images/overlay/img_mob2x.jpg);
+    url(./images/overlay/img_mob2x.jpg);
   }
   background-repeat: no-repeat;
   background-position: center;
@@ -33,7 +33,7 @@
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(../images/overlay/img_tab1x.jpg);
+    url(./images/overlay/img_tab1x.jpg);
     @media (min-device-pixel-ratio: 2),
   (min-resolution: 192dpi),
   (min-resolution: 2dppx) {
@@ -42,7 +42,7 @@
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(../images/overlay/img_tab2x.jpg);
+    url(./images/overlay/img_tab2x.jpg);
   }
 }
 // ------------DECKTOP---------------
@@ -54,7 +54,7 @@
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(../images/overlay/img_des1x.jpg);
+    url(./images/overlay/img_des1x.jpg);
     @media (min-device-pixel-ratio: 2),
   (min-resolution: 192dpi),
   (min-resolution: 2dppx) {
@@ -63,7 +63,7 @@
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(../images/overlay/img_des2x.jpg);
+    url(./images/overlay/img_des2x.jpg);
   }
 }
 }
